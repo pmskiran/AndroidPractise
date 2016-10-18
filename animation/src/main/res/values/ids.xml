@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bar_one" type="id"></item>
+    <item name="bar_two" type="id"></item>
+    <item name="bar_three" type="id"></item>
+    <item name="bar_four" type="id"></item>
+    <item name="bar_five" type="id"></item>
+    <item name="bar_six" type="id"></item>
+    <item name="bar_seven" type="id"></item>
+    <item name="bar_eight" type="id"></item>
+    <item name="bar_nine" type="id"></item>
+</resources>
